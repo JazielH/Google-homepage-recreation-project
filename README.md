@@ -1,2 +1,2 @@
 # first-projects
-First Projects
+HTML/CSS only Google Homepage recreation
